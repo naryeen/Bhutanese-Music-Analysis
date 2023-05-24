@@ -1,1 +1,1 @@
-# Bhutanese-Music-Analysis
+#MiniProject
