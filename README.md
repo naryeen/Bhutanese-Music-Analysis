@@ -1,4 +1,5 @@
 #MiniProject
+<<<<<<< HEAD
 #MiniProject
 
 # Bhutanese Music Video Analysis
@@ -6,6 +7,16 @@
 _Gyalpozhing College of Information
 Technology(Bachelor of Science in Information
 Technology(BScIT)) Year 3 (Data Analytics Module) Project_
+=======
+
+
+
+# Bhutanese Music Video Analysis
+
+*Gyalpozhing College of Information 
+Technology(Bachelor of Science in Information 
+Technology(BScIT)) Year 3 (Data Analytics Module) Project*
+>>>>>>> 8e5ee5c7cb7a3317b88f33f6fde64c9f7a197ca6
 
 # Description
 
@@ -21,19 +32,29 @@ thereby increasing the popularity of those MV. And not only this, it will help t
 to analysis which type of MVs are most and least preferred and improve according to it.
 
 # Technology Used
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8e5ee5c7cb7a3317b88f33f6fde64c9f7a197ca6
 1. Visual Studio Code
 2. Plotly Dash
 3. Google Collab
 4. Python
 
 ## Dashboard (Heroku Platform)
+<<<<<<< HEAD
 
 Click here :
 (https://mini-prj.herokuapp.com/)
 
 ## Screenshoot of Bhutanese Music Video Analysis
 
+=======
+Click here : 
+(https://mini-prj.herokuapp.com/)
+
+## Screenshoot of Bhutanese Music Video Analysis
+>>>>>>> 8e5ee5c7cb7a3317b88f33f6fde64c9f7a197ca6
 <img src="screenshot/1.png" width="450" height="250" /> <br>
 <img src="screenshot/2.png" width="450" height="250" /> <br>
 <img src="screenshot/3.png" width="450" height="250" /> <br>
